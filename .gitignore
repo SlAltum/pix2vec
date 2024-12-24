@@ -1,0 +1,5 @@
+.idea
+.obsidian
+3rdparty/*
+cmake-build-debug-mingw
+*.drawio
